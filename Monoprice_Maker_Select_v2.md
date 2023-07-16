@@ -98,3 +98,11 @@ the hot end of the printer is where the filament is melted before being stuck on
 14. repeat several times.
 15. now bed is level.
 16. performing auto home.
+17. 
+
+
+## Printer Modifications (Mods)
+1. mosfet board for motors
+2. zip tie anchors - to stop rear (hot bed) wires from rubbing on the frame
+3.  z-axis braces - to support the vertical part of the frame from wobbling, misalignment
+4.  thicker y-axis carriage
