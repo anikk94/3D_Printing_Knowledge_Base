@@ -84,8 +84,17 @@ the hot end of the printer is where the filament is melted before being stuck on
 ## Print Bed Leveling
 1. lift the z-axis above the print bed. make it at least halfway up.
 2. tighten the print bed screws so the print bed is as low as possible.
-3. disable steppers or turn off printer
+3. disable steppers or turn off the printer
 4. push the print head to one side (left/right).
 5. place an object with 2 parallel horizontal sides (like a rubiks cube) on the print bed on the side opposite to the print head.
 6. lower the z-axis by turning the screw threads until the guide rods touch the flat object on the print bed.
 7. swap the position of the print head and the flat object.
+8. bring the guide rods into contact with the flat object on this side as well.
+9. repeat a few times.
+10. do not adjust screw thread rods anymore. z-axis is now parallel.
+11. bring nozzle tip to bed level.
+12. place print paper between nozzle and bed. paper should not be jammed.
+13. repeat on all 4 corners of the print bed.
+14. repeat several times.
+15. now bed is level.
+16. performing auto home.
