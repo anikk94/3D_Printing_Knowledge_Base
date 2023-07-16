@@ -78,4 +78,14 @@ the hot end of the printer is where the filament is melted before being stuck on
     ```
 
     the hot end nozzle fan is meant to cool the nozzle and the layer that is being printed.
-  - 
+ 
+
+
+## Print Bed Leveling
+1. lift the z-axis above the print bed. make it at least halfway up.
+2. tighten the print bed screws so the print bed is as low as possible.
+3. disable steppers or turn off printer
+4. push the print head to one side (left/right).
+5. place an object with 2 parallel horizontal sides (like a rubiks cube) on the print bed on the side opposite to the print head.
+6. lower the z-axis by turning the screw threads until the guide rods touch the flat object on the print bed.
+7. swap the position of the print head and the flat object.
