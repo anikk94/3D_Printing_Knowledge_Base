@@ -27,7 +27,7 @@ Output Current: 20A
 ## 5. Information Resources
 1. [Getting Started with the Monoprice 3D printer - Sumo Robot League](https://www.youtube.com/watch?v=8ScO0BHtAAI&ab_channel=SumoRobotLeague) - seen
 2. [Spare parts online](https://www.wanhao-monoprice-parts.com/maker-select-v2) - seen
-
+3. [Duct Fan Mod](https://www.thingiverse.com/thing:1025471)
 
 ## 6. Printer Description (please organize this better)
 hot end of the printer:
