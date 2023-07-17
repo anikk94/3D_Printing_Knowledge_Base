@@ -9,7 +9,7 @@ this printer was received by me from Doris Aunty.
 5. Information Resources
 
 ## 1. History
-Monoprice is a US based company (online e-retailer) that sells clones of products from around the world. This printer is a clone of a chinese printer - WANHAO DUPLICATOR I3 V2.1
+Monoprice is a US based company (online e-retailer) that sells clones of products from around the world. This printer is a clone of a chinese printer - `WANHAO DUPLICATOR I3 V2.1`
 
 ## 2. Initial Condition
 
@@ -19,12 +19,14 @@ Monoprice is a US based company (online e-retailer) that sells clones of product
 Maker: Monoprice
 Modle Name: Maker Select v2
 Modle Number: 13860
+Clone Of: Wanhao Duplicator i3
 Input Voltage: 110V / 220V (Select Switch)
 Input Current: 2A
 Output Voltage: 12V
 Output Current: 20A
 Extruder: MK10 style extruder. (FLEXION EXTRUDER)
 Build Volume: 200x200x180 (x, y, z)
+Initial Launch Cost: $300
 
 ## 5. Information Resources
 1. [Getting Started with the Monoprice 3D printer - Sumo Robot League](https://www.youtube.com/watch?v=8ScO0BHtAAI&ab_channel=SumoRobotLeague) - seen
@@ -32,6 +34,7 @@ Build Volume: 200x200x180 (x, y, z)
 3. [Duct Fan Mod](https://www.thingiverse.com/thing:1025471) - seen
 4. [Z-Axis Brace Installation and Testing + Parts](https://www.youtube.com/watch?v=vBTG0YWVYQM&ab_channel=InsideTheMindOfMatt) - seen
 5. [Maker Select v2 Review](https://www.youtube.com/watch?v=QURR3m3aVYE&ab_channel=peterc3d) - seen
+6. [Essential Mods for Maker Select v2](https://letsprint3d.net/essential-mods-upgrade-3d-printer/) - seen
 
 ## 6. Printer Description (please organize this better)
 
@@ -142,7 +145,14 @@ Build Volume: 200x200x180 (x, y, z)
 
     Angus's GCode Nozzle Wipe Video
 15. printer y-axis is very noisy - replacement bearings seem to solve the problem
+16. printer looses level easily - even when taking parts off. thicker y-axis carriage seems to help with this.
 
 
-
+## Print Settings Bundles
+1. Sample 1:
+   - Print Speed: 70 mm/s
+   - Travel Speed: 120 mm/s
+   - Vase Mode
+   - Comment: This is considered fast for 3DBenchy
+   - Layer Height: 0.2 mm
     
