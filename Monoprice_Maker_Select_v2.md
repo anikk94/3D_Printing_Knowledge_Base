@@ -9,7 +9,13 @@ this printer was received by me from Doris Aunty.
 5. Information Resources
 
 ## 1. History
-Monoprice is a US based company (online e-retailer) that sells clones of products from around the world. This printer is a clone of a chinese printer - `WANHAO DUPLICATOR I3 V2.1`
+Monoprice is a US based company (online e-retailer) that sells clones of products from around the world. This printer is a clone of a chinese printer - `WANHAO DUPLICATOR I3 V2.1`.
+These words are important search terms:
+    - Introduction to Mendel (RepRap v2)
+    - Mendel - the second RepRap design by Adrian Bowyer
+    - 2010 by a young Czech - Josef Průša
+    - Prusa i3 (most cloned printer)
+    
 
 ## 2. Initial Condition
 
@@ -35,7 +41,10 @@ Initial Launch Cost: $300
 4. [Z-Axis Brace Installation and Testing + Parts](https://www.youtube.com/watch?v=vBTG0YWVYQM&ab_channel=InsideTheMindOfMatt) - seen
 5. [Maker Select v2 Review](https://www.youtube.com/watch?v=QURR3m3aVYE&ab_channel=peterc3d) - seen
 6. [Essential Mods for Maker Select v2](https://letsprint3d.net/essential-mods-upgrade-3d-printer/) - seen
-7. [Google Group for Maker Select v2 Modding](https://groups.google.com/g/wanhao-printer-3d/c/wnBSoCYRyP4?pli=1)
+7. [Google Group for Maker Select v2 Modding](https://groups.google.com/g/wanhao-printer-3d/c/wnBSoCYRyP4?pli=1) - seen
+8. [More Modding Advice With Examples](https://brokensolenoid.com/2020/03/03/how-i-bulletproofed-my-monoprice-select-v2-3d-printer/) - seen
+9. [Remain Indoors]
+10. [Adam Coleman - Printer Control Board Upgrade](http://www.colemanworld.net/2020/05/02/wanhao-i3-conversion-to-skr-1-4-log/) - seen
 
 ## 6. Printer Description (please organize this better)
 
