@@ -104,5 +104,25 @@ the hot end of the printer is where the filament is melted before being stuck on
 ## Printer Modifications (Mods)
 1. mosfet board for motors
 2. zip tie anchors - to stop rear (hot bed) wires from rubbing on the frame
-3.  z-axis braces - to support the vertical part of the frame from wobbling, misalignment
-4.  thicker y-axis carriage
+3. z-axis braces - to support the vertical part of the frame from wobbling, misalignment
+4. thicker y-axis carriage
+5. glass build plate
+6. x-axis ends and bearing changes
+7. (genuine) E3dv6 hotend
+8. control box fan extension
+9. starting g-code change - to print a nozzle clearing line
+10. toothed idler pulleys instead of smooth idler pulleys
+11. y-axis bearing configuration change (3 points from stock 4 point configuration)
+12. firmware change - baby stepping
+13. x-y-z caliberation - to adjust extrusion.
+14. more modding resources
+    Thomas Sanladerer:
+
+    Maker's Muse:
+
+    Angus's GCode Nozzle Wipe Video
+
+
+
+
+    
