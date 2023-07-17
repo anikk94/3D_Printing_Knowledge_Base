@@ -9,6 +9,7 @@ this printer was received by me from Doris Aunty.
 5. Information Resources
 
 ## 1. History
+Monoprice is a US based company (online e-retailer) that sells clones of products from around the world. This printer is a clone of a chinese printer - WANHAO DUPLICATOR I3 V2.1
 
 ## 2. Initial Condition
 
@@ -25,7 +26,7 @@ Output Current: 20A
 
 ## 5. Information Resources
 1. [Getting Started with the Monoprice 3D printer - Sumo Robot League](https://www.youtube.com/watch?v=8ScO0BHtAAI&ab_channel=SumoRobotLeague) - seen
-2. 
+2. [Spare parts online](https://www.wanhao-monoprice-parts.com/maker-select-v2) - seen
 
 
 ## 6. Printer Description (please organize this better)
