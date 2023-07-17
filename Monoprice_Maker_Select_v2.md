@@ -35,6 +35,7 @@ Initial Launch Cost: $300
 4. [Z-Axis Brace Installation and Testing + Parts](https://www.youtube.com/watch?v=vBTG0YWVYQM&ab_channel=InsideTheMindOfMatt) - seen
 5. [Maker Select v2 Review](https://www.youtube.com/watch?v=QURR3m3aVYE&ab_channel=peterc3d) - seen
 6. [Essential Mods for Maker Select v2](https://letsprint3d.net/essential-mods-upgrade-3d-printer/) - seen
+7. [Google Group for Maker Select v2 Modding](https://groups.google.com/g/wanhao-printer-3d/c/wnBSoCYRyP4?pli=1)
 
 ## 6. Printer Description (please organize this better)
 
