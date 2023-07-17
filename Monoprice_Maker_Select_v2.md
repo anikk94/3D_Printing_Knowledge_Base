@@ -45,6 +45,7 @@ Initial Launch Cost: $300
 8. [More Modding Advice With Examples](https://brokensolenoid.com/2020/03/03/how-i-bulletproofed-my-monoprice-select-v2-3d-printer/) - seen
 9. [Remain Indoors]
 10. [Adam Coleman - Printer Control Board Upgrade](http://www.colemanworld.net/2020/05/02/wanhao-i3-conversion-to-skr-1-4-log/) - seen
+11. [Mosfet Board Upgrade](https://www.youtube.com/watch?v=qHobyDDwA9E&ab_channel=InsideTheMindOfMatt) - seen
 
 ## 6. Printer Description (please organize this better)
 
