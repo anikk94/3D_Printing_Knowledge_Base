@@ -23,6 +23,7 @@ Input Voltage: 110V / 220V (Select Switch)
 Input Current: 2A
 Output Voltage: 12V
 Output Current: 20A
+Extruder: MK10 style extruder. (FLEXION EXTRUDER)
 
 ## 5. Information Resources
 1. [Getting Started with the Monoprice 3D printer - Sumo Robot League](https://www.youtube.com/watch?v=8ScO0BHtAAI&ab_channel=SumoRobotLeague) - seen
