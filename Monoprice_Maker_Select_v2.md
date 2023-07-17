@@ -24,6 +24,7 @@ Input Current: 2A
 Output Voltage: 12V
 Output Current: 20A
 Extruder: MK10 style extruder. (FLEXION EXTRUDER)
+Build Volume: 200x200x180 (x, y, z)
 
 ## 5. Information Resources
 1. [Getting Started with the Monoprice 3D printer - Sumo Robot League](https://www.youtube.com/watch?v=8ScO0BHtAAI&ab_channel=SumoRobotLeague) - seen
@@ -32,62 +33,70 @@ Extruder: MK10 style extruder. (FLEXION EXTRUDER)
 4. [Z-Axis Brace Installation and Testing + Parts](https://www.youtube.com/watch?v=vBTG0YWVYQM&ab_channel=InsideTheMindOfMatt) - seen
 
 ## 6. Printer Description (please organize this better)
-hot end of the printer:
 
-the hot end of the printer is where the filament is melted before being stuck on the print bed(controls the feeding process).
-- hot end block
-- hot end nozzle
-- hot end heat break
-- hot end heat sink
-- hot end PETG(verification required) tube
-- hot end fans
-  - heat sink fan
+
+
+1. hot end of the printer:
+
+    the hot end of the printer is where the filament is melted before being stuck on the print bed(controls the feeding process).
+    - hot end block
+    - hot end nozzle
+    - hot end heat break
+    - hot end heat sink
+    - hot end PETG(verification required) tube
+    - hot end fans
+      - heat sink fan
+        
+        the heat sink fan is meant to cool the heat sink that holds the heat break. it prevents the hot end block from overheating. the heating element provides heat. this probably allows similarly fast cooling.
+      - duct is meant to direct air precisely toward the nozzle area.
     
-    the heat sink fan is meant to cool the heat sink that holds the heat break. it prevents the hot end block from overheating. the heating element provides heat. this probably allows similarly fast cooling.
-  - duct is meant to direct air precisely toward the nozzle area.
-
-    the duct is meant 
-  - duct fan (nozzle fan)
- 
-    sample compatible nozzle fan: `Noctua NF-A4x20`
-    ```
-    FAN Specification
-      Size 40x40x20 mm
-      Mounting hole spacing 32x32 mm
-      Connector & pin-configuration 3-pin
-      Cable length 20cm + 30cm NA-EC1 extension cable
-      Bearing SSO2
-      Blade geometry A-Series with Flow Acceleration Channels
-      Frame technology AAO (Advanced Acoustic Optimisation)
-      Rotational speed (+/- 10%) 5000 RPM
-      Rotational speed with L.N.A. (+/- 10%) 4400 RPM
-      Rotational Speed with U.L.N.A. (+/- 10%) 3700 RPM
-      Airflow 9,4 m³/h
-      Airflow with L.N.A. 8,3 m³/h
-      Airflow with U.L.N.A. 6,9 m³/h
-      Acoustical noise 14,9 dB(A)
-      Acoustical noise with L.N.A. 12,2 dB(A)
-      Acoustical noise with U.L.N.A. 8,5 dB(A)
-      Static pressure 2,26 mm H₂O
-      Static pressure with L.N.A. 1,75 mm H₂O
-      Static pressure with U.L.N.A. 1,23 mm H₂O
-      Input power (typical) 0,46 W
-      Input power (max.) 0,6 W
-      Input current (typical) 0,04 A
-      Max. input current 0,05 A
-      Operating voltage 12 V
-      MTTF > 150.000 h
-      Scope of delivery
-        Low-Noise Adaptor (L.N.A.)
-        Ultra-Low-Noise Adaptor (U.L.N.A.)
-        30cm extension cable
-        OmniJoin™ adaptor set
-        NA-AV3 anti-vibration mounts
-        Fan screws
-      Warranty 6 years
-    ```
-
-    the hot end nozzle fan is meant to cool the nozzle and the layer that is being printed.
+        the duct is meant 
+      - duct fan (nozzle fan)
+     
+        sample compatible nozzle fan: `Noctua NF-A4x20`
+        ```
+        FAN Specification
+          Size 40x40x20 mm
+          Mounting hole spacing 32x32 mm
+          Connector & pin-configuration 3-pin
+          Cable length 20cm + 30cm NA-EC1 extension cable
+          Bearing SSO2
+          Blade geometry A-Series with Flow Acceleration Channels
+          Frame technology AAO (Advanced Acoustic Optimisation)
+          Rotational speed (+/- 10%) 5000 RPM
+          Rotational speed with L.N.A. (+/- 10%) 4400 RPM
+          Rotational Speed with U.L.N.A. (+/- 10%) 3700 RPM
+          Airflow 9,4 m³/h
+          Airflow with L.N.A. 8,3 m³/h
+          Airflow with U.L.N.A. 6,9 m³/h
+          Acoustical noise 14,9 dB(A)
+          Acoustical noise with L.N.A. 12,2 dB(A)
+          Acoustical noise with U.L.N.A. 8,5 dB(A)
+          Static pressure 2,26 mm H₂O
+          Static pressure with L.N.A. 1,75 mm H₂O
+          Static pressure with U.L.N.A. 1,23 mm H₂O
+          Input power (typical) 0,46 W
+          Input power (max.) 0,6 W
+          Input current (typical) 0,04 A
+          Max. input current 0,05 A
+          Operating voltage 12 V
+          MTTF > 150.000 h
+          Scope of delivery
+            Low-Noise Adaptor (L.N.A.)
+            Ultra-Low-Noise Adaptor (U.L.N.A.)
+            30cm extension cable
+            OmniJoin™ adaptor set
+            NA-AV3 anti-vibration mounts
+            Fan screws
+          Warranty 6 years
+        ```
+    
+        the hot end nozzle fan is meant to cool the nozzle and the layer that is being printed.
+2. Print files:
+   - Can be given by sd card.
+   - there is a USB port for interfacing with a PC.
+   - USB allows for more control while printing including chaning print settings on the fly.
+   - USB also allows for use of `OctoPrint`
  
 
 
