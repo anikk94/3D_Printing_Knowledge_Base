@@ -31,6 +31,7 @@ Build Volume: 200x200x180 (x, y, z)
 2. [Spare parts online](https://www.wanhao-monoprice-parts.com/maker-select-v2) - seen
 3. [Duct Fan Mod](https://www.thingiverse.com/thing:1025471) - seen
 4. [Z-Axis Brace Installation and Testing + Parts](https://www.youtube.com/watch?v=vBTG0YWVYQM&ab_channel=InsideTheMindOfMatt) - seen
+5. [Maker Select v2 Review](https://www.youtube.com/watch?v=QURR3m3aVYE&ab_channel=peterc3d) - seen
 
 ## 6. Printer Description (please organize this better)
 
@@ -96,7 +97,7 @@ Build Volume: 200x200x180 (x, y, z)
    - Can be given by sd card.
    - there is a USB port for interfacing with a PC.
    - USB allows for more control while printing including chaning print settings on the fly.
-   - USB also allows for use of `OctoPrint`
+   - USB also allows for use of `OctoPrint` and webcam print monitoring support.
  
 
 
@@ -140,7 +141,7 @@ Build Volume: 200x200x180 (x, y, z)
     Maker's Muse:
 
     Angus's GCode Nozzle Wipe Video
-
+15. printer y-axis is very noisy - replacement bearings seem to solve the problem
 
 
 
