@@ -22,17 +22,17 @@ These words are important search terms:
 ## 3. Repair Effort
 
 ## 4. Important Product Specifications
-Maker: Monoprice
-Modle Name: Maker Select v2
-Modle Number: 13860
-Clone Of: Wanhao Duplicator i3
-Input Voltage: 110V / 220V (Select Switch)
-Input Current: 2A
-Output Voltage: 12V
-Output Current: 20A
-Extruder: MK10 style extruder. (FLEXION EXTRUDER)
-Build Volume: 200x200x180 (x, y, z)
-Initial Launch Cost: $300
+- Maker: Monoprice
+- Modle Name: Maker Select v2
+- Modle Number: 13860
+- Clone Of: Wanhao Duplicator i3
+- Input Voltage: 110V / 220V (Select Switch)
+- Input Current: 2A
+- Output Voltage: 12V
+- Output Current: 20A
+- Extruder: MK10 style extruder. (FLEXION EXTRUDER)
+- Build Volume: 200x200x180 (x, y, z)
+- Initial Launch Cost: $300
 
 ## 5. Information Resources
 1. [Getting Started with the Monoprice 3D printer - Sumo Robot League](https://www.youtube.com/watch?v=8ScO0BHtAAI&ab_channel=SumoRobotLeague) - seen
