@@ -8,7 +8,7 @@ this printer was received by me from Doris Aunty.
 4. Important Product Specifications
 5. Information Resources
 
-## 1. History
+## History
 Monoprice is a US based company (online e-retailer) that sells clones of products from around the world. This printer is a clone of a chinese printer - `WANHAO DUPLICATOR I3 V2.1`.
 These words are important search terms:
     - Introduction to Mendel (RepRap v2)
@@ -17,11 +17,11 @@ These words are important search terms:
     - Prusa i3 (most cloned printer)
     
 
-## 2. Initial Condition
+## Initial Condition
 
-## 3. Repair Effort
+## Repair Effort
 
-## 4. Important Product Specifications
+## Important Product Specifications
 - Maker: Monoprice
 - Modle Name: Maker Select v2
 - Modle Number: 13860
@@ -31,10 +31,11 @@ These words are important search terms:
 - Output Voltage: 12V
 - Output Current: 20A
 - Extruder: MK10 style extruder. (FLEXION EXTRUDER)
+- Nozzle: MK10 nozzles (0.4mm default supplied nozzle)
 - Build Volume: 200x200x180 (x, y, z)
 - Initial Launch Cost: $300
 
-## 5. Information Resources
+## Information Resources
 1. [Getting Started with the Monoprice 3D printer - Sumo Robot League](https://www.youtube.com/watch?v=8ScO0BHtAAI&ab_channel=SumoRobotLeague) - seen
 2. [Spare parts online](https://www.wanhao-monoprice-parts.com/maker-select-v2) - seen
 3. [Duct Fan Mod](https://www.thingiverse.com/thing:1025471) - seen
@@ -47,20 +48,17 @@ These words are important search terms:
 10. [Adam Coleman - Printer Control Board Upgrade](http://www.colemanworld.net/2020/05/02/wanhao-i3-conversion-to-skr-1-4-log/) - seen
 11. [Mosfet Board Upgrade](https://www.youtube.com/watch?v=qHobyDDwA9E&ab_channel=InsideTheMindOfMatt) - seen
 
-## 6. Printer Description (please organize this better)
+## Printer Description (please organize this better)
+#### Printer Hot End:
 
-
-
-1. hot end of the printer:
-
-    the hot end of the printer is where the filament is melted before being stuck on the print bed(controls the feeding process).
-    - hot end block
-    - hot end nozzle
-    - hot end heat break
-    - hot end heat sink
-    - hot end PETG(verification required) tube
-    - hot end fans
-      - heat sink fan
+the hot end of the printer is where the filament is melted before being stuck on the print bed(controls the feeding process).
+- hot end block
+- hot end nozzle
+- hot end heat break
+- hot end heat sink
+- hot end PETG(verification required) tube
+- hot end fans
+  - heat sink fan
         
         the heat sink fan is meant to cool the heat sink that holds the heat break. it prevents the hot end block from overheating. the heating element provides heat. this probably allows similarly fast cooling.
       - duct is meant to direct air precisely toward the nozzle area.
@@ -107,7 +105,8 @@ These words are important search terms:
         ```
     
         the hot end nozzle fan is meant to cool the nozzle and the layer that is being printed.
-2. Print files:
+
+## Print Files:
    - Can be given by sd card.
    - there is a USB port for interfacing with a PC.
    - USB allows for more control while printing including chaning print settings on the fly.
