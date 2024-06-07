@@ -7,3 +7,9 @@ This book is meant to catalog my 3D printing journey and host useful for quick l
 # bed adjustment
 clockwise: bed up
 anti-clockwise: bed down
+
+
+# Fasteners
+1. heat set insert - brass knurled nuts
+2. tapping into plastic directly (screwing into tight printed hole)
+3. incoorperating nuts into design for bolts
